@@ -12,6 +12,7 @@
 * IoT
 * Peneteration testing
 * Machine learning
+* track your girlfriend
 * Hack your mom's credit card
 
 I'm looking for [GitHub sponsors](https://github.com/sponsors/Cvar1984).

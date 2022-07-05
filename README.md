@@ -1,6 +1,6 @@
 
 ### Codename: Cvar1984
-![Iwakura lain](https://cvar1984.github.io/images/lain.gif)
+![Iwakura lain](https://c.tenor.com/O8k-DvUjaeEAAAAd/lain-dance.gif)
 >No matter where you go, everyone is connected
 
 ![Cvar1984's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cvar1984&show_icons=true&theme=radical)

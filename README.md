@@ -23,3 +23,5 @@
 [![Top repo](https://github-readme-stats.vercel.app/api/pin/?username=Cvar1984&repo=liteotp&theme=radical)](https://github.com/Cvar1984/liteotp)
 [![Top repo](https://github-readme-stats.vercel.app/api/pin/?username=BlackholeSecurity&repo=simpleimage&theme=radical)](https://github.com/BlackHoleSecurity/simpleimage)
 [![Top repo](https://github-readme-stats.vercel.app/api/pin/?username=Cvar1984&repo=ml&theme=radical)](https://github.com/Cvar1984/ml)
+[![Top repo](https://github-readme-stats.vercel.app/api/pin/?username=Cvar1984&repo=pload&theme=radical)](https://github.com/Cvar1984/pload)
+[![Top repo](https://github-readme-stats.vercel.app/api/pin/?username=Cvar1984&repo=r2&theme=radical)](https://github.com/Cvar1984/r2)

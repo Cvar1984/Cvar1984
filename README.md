@@ -1,27 +1,21 @@
+<img src="https://user-images.githubusercontent.com/73097560/121835696-761b5c80-cd04-11eb-9d9c-6a4f6fb07724.gif" align="right"/>
 
-### Codename: Cvar1984
-![Iwakura lain](https://c.tenor.com/O8k-DvUjaeEAAAAd/lain-dance.gif)
->No matter where you go, everyone is connected
-
-![Cvar1984's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cvar1984&show_icons=true&theme=radical)
 ### Skills / Abilities
 * PHP
 * C/C++
 * GNU/Linux
-* Peneteration testing
-* track your girlfriend
+* Peneteration Testing
+* Track your girlfriend
 * Hack your mom's credit card
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Cvar1984&hide_border=true&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" align="right">
+
 ### Interest
 * Machine Learning
 * Rust
 * Lua
-* Embedded device
+* Embedded Device
 * Particle Physics
 * Nuclear Science
-
-[![Top repo](https://github-readme-stats.vercel.app/api/pin/?username=Cvar1984&repo=sqlscan&theme=radical)](https://github.com/Cvar1984/sqlscan)
-[![Top repo](https://github-readme-stats.vercel.app/api/pin/?username=Cvar1984&repo=liteotp&theme=radical)](https://github.com/Cvar1984/liteotp)
-[![Top repo](https://github-readme-stats.vercel.app/api/pin/?username=BlackholeSecurity&repo=simpleimage&theme=radical)](https://github.com/BlackHoleSecurity/simpleimage)
-[![Top repo](https://github-readme-stats.vercel.app/api/pin/?username=Cvar1984&repo=ml&theme=radical)](https://github.com/Cvar1984/ml)
-[![Top repo](https://github-readme-stats.vercel.app/api/pin/?username=Cvar1984&repo=pload&theme=radical)](https://github.com/Cvar1984/pload)
-[![Top repo](https://github-readme-stats.vercel.app/api/pin/?username=Cvar1984&repo=r2&theme=radical)](https://github.com/Cvar1984/r2)
+* Stained Glass

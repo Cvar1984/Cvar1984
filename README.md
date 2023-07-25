@@ -15,12 +15,11 @@
 
 ### Interest
 * Machine Learning
-* Rust
-* Lua
 * Embedded Device
 * Particle Physics
 * Nuclear Science
 * Stained Glass
+* Your mom
 
 
 [![@cvar1984's Holopin board](https://holopin.me/cvar1984)](https://holopin.io/@cvar1984)

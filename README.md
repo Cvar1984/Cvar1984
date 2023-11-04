@@ -21,6 +21,8 @@
 * Nuclear Science
 * Stained Glass
 * Aviation
+* Software Defined Radio
+* Weather Forecasting
 * Your mom
 
 

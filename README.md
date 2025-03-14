@@ -24,6 +24,6 @@
 * Software Defined Radio
 * Your mom
 
-[![@Cvar1984's Thropy](https://github-profile-trophy.vercel.app/?username=Cvar1984&rank=-C&theme=darkhub&margin-w=20&bg=false)](https://github.com/Cvar1984/)
+[![@Cvar1984's Thropy](https://github-profile-trophy.vercel.app/?username=Cvar1984&rank=-C,%20-B&theme=darkhub&margin-w=20&bg=false&no-frame=true&no-bg=true)](https://github.com/Cvar1984/)
 
 [![@Cvar1984's Holopin board](https://holopin.me/cvar1984)](https://holopin.io/@cvar1984)

@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1020353796397863033?bg=0d1116)](https://discord.com/users/1020353796397863033)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1020353796397863033?bg=0d1116&hideActivity=true)](https://discord.com/users/1020353796397863033)
 <img src="https://user-images.githubusercontent.com/73097560/121835696-761b5c80-cd04-11eb-9d9c-6a4f6fb07724.gif" align="right"/>
 
 ### Skills / Abilities

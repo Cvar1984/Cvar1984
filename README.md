@@ -8,7 +8,10 @@
 * Peneteration Testing
 * Unity
 * Track your girlfriend
-* Hack your mom's credit card
+* Hack your grandma credit card
+* Fix your printer
+* Feed your dogs
+* Mow your lawn
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Cvar1984&hide_border=true&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" align="right"><br/>
